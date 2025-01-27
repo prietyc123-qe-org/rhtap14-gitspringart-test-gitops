@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rhtap14-gitspringart-test-repository
+spec:
+  url: https://github.com/prietyc123-qe-org/rhtap14-gitspringart-test
